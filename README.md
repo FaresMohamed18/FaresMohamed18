@@ -20,6 +20,8 @@ I'm interested in analyzing data, building dashboards, and transforming raw data
 * Statistics
 
 ### 📊 Projects
+<img width="1895" height="821" alt="hotel-booking-dashboard" src="https://github.com/user-attachments/assets/9f16cb88-95c9-4ddc-b116-186b244a31cc" />
+
 
 **Hotel Booking Analysis – Excel**
 
@@ -31,7 +33,7 @@ More projects coming soon!
 
 ### 🤝 Connect With Me
 
-* LinkedIn: Your LinkedIn Profile
+* LinkedIn: (https://www.linkedin.com/in/fares-mohamed-6408a5337/)
 * GitHub: [FarisMohamed18](https://github.com/FaresMohamed18)
 
 ---
