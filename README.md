@@ -1,4 +1,4 @@
-# Hi, I'm Faris Mohamed 👋
+# Hi, I'm Fares Mohamed 👋
 
 ### Aspiring Data Analyst | MIS Graduate
 
